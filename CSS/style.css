@@ -95,7 +95,7 @@ footer {
   }
 }
 
-@media (width < 680px){
+@media (width < 850px){
   .sketchContainer {
     width: 100%;
   }
